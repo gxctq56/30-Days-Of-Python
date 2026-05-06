@@ -22,3 +22,19 @@ print(type("Name"))
 print(type("Family Name"))
 print(type("Canada"))
 
+#ex3
+print(type(5))
+print(type(5.5))
+print(type(5-5j))
+print(type("hello world"))
+print(type(TRUE))
+print(type([1,2,3,4,5]))
+print(type({
+  'name':'M',
+  'country':'Canada'
+}))
+print(type(('may','june','July')))
+
+dist = ((2-10)**2+(3-8)**2)**(1/2)
+print(dist)
+
