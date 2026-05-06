@@ -1,21 +1,24 @@
-python3 --version
-3+4
-3-4
-3*4
-3%4
-3/4
-3**4
-3//4
-"Name"
-"Family Name"
-"Canada"
+# Arithmetic operations
+print(3 + 4)
+print(3 - 4)
+print(3 * 4)
+print(3 % 4)
+print(3 / 4)
+print(3 ** 4)
+print(3 // 4)
 
-type(10)
-type(9.8)
-type(3.14)
-type(4-4j)
-type(['Asabeneh', 'Python', 'Finland'])
-type("Name")
-type("Family Name")
-type("Canada")
+# Strings
+print("Name")
+print("Family Name")
+print("Canada")
+
+# Types
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 - 4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type("Name"))
+print(type("Family Name"))
+print(type("Canada"))
 
